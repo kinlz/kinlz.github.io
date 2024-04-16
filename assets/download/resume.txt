@@ -1,0 +1,50 @@
+Lai wai kin
+waikin.l@ypccollege.edu.my
+
+Objective:
+To leverage my expertise in software engineering and full-stack development to contribute to a dynamic team, 
+delivering innovative solutions and driving impactful results. 
+With a passion for problem-solving and a commitment to excellence, 
+I aim to collaborate effectively, push boundaries, and continuously enhance products 
+to meet the evolving needs of users and stakeholders.
+
+Education:
+[Degree Bachelor Multimedia Computing], [Web developers]
+[YPC College], [Kuala Lumpur, wilayah persekutuan]
+(Expected Graduation 10, 2024)
+
+Relevant Coursework:
+
+[E-commerce grocery website]
+[Scuba Diving Virtual Reality]
+[MemeHub Inc. website]
+[game-based learning website]
+[Course Title 5]
+Skills:
+
+Programming Languages: Java, React, C#, PHP, JavaScript
+Web Technologies: HTML, CSS, Node.js, JavaFX
+Frameworks: Bootstrap, Tailwind
+Design Tools: Adobe Photoshop, Illustrator, InDesign
+Other Skills: [Any additional relevant skills, such as teamwork, communication, problem-solving, etc.]
+Experience:
+[Job Title], [Company Name], [Location] (Month, Year - Month, Year)
+
+Brief description of responsibilities and achievements
+[Job Title], [Company Name], [Location] (Month, Year - Month, Year)
+
+Brief description of responsibilities and achievements
+[Job Title], [Company Name], [Location] (Month, Year - Month, Year)
+
+Brief description of responsibilities and achievements
+Projects:
+[Project Title], [Brief Description of Project], [Tools/Languages Used]
+
+[Project Details or Achievements]
+[Project Title], [Brief Description of Project], [Tools/Languages Used]
+[Project Details or Achievements]
+Certifications:
+
+[Certification Name], [Issuing Organization], [Date Earned]
+References:
+Available upon request.
